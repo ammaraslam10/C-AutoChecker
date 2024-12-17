@@ -1,0 +1,3 @@
+./tests/test1.cpp ./tests/expected1.txt 5
+./tests/test2.cpp ./tests/expected2.txt 5
+./tests/test3.cpp ./tests/expected3.txt 10
